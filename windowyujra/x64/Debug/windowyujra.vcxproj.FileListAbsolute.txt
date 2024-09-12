@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\misa_escri\windowyujra\windowyujra\x64\Debug\windowyujra.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\misa_escri\windowyujra\windowyujra\x64\Debug\windowyujra.MyForm.resources
+C:\Users\User\Desktop\misa_escri\windowyujra\windowyujra\x64\Debug\windowyujra.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\misa_escri\windowyujra\windowyujra\x64\Debug\windowyujra.MainForm.resources
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\x64\Debug\windowyujra.vcxproj.AssemblyReference.cache
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\x64\Debug\windowyujra.MainForm.resources
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\x64\Debug\windowyujra.MyForm.resources
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\x64\Debug\windowyujra.vcxproj.GenerateResource.cache

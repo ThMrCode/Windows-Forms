@@ -1,0 +1,47 @@
+﻿  main.cpp
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(154,23): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(155,23): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(170,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(171,131): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(171,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(171,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(177,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(177,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(178,105): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(178,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(178,64): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(196,105): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(196,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(196,64): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(263,23): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(263,50): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(263,75): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(274,42): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(275,23): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(275,77): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(276,23): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(276,78): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(317,124): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(330,31): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(331,31): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(381,67): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(381,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(467,36): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(468,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(469,73): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(469,36): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(471,75): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(479,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(481,37): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(483,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(485,37): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(487,36): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\utils.h(489,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\MainForm.h(748,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\MainForm.h(758,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\MyForm.h(19,9): warning C4677: 'MyForm': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'windowyujra::Administrator'
+C:\Users\ThMrCode24\Desktop\windowyujra\windowyujra\main.cpp(10,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  windowyujra.vcxproj -> C:\Users\ThMrCode24\Desktop\windowyujra\x64\Debug\windowyujra.exe

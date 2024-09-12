@@ -1,0 +1,105 @@
+  windowyujra.MainForm.resources - Embedded, ContainedInManifestFile, 
+  windowyujra.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly windowyujra, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class windowyujra.ColorPalet: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Drawing.Color primaryColor : Public, Static
+    System.Drawing.Color secondaryColor : Public, Static
+    System.Drawing.Color backgroundColor : Public, Static
+    System.Drawing.Color accentColor : Public, Static
+    System.Drawing.Color textColor : Public, Static
+    System.Drawing.Color whiteColor : Public, Static
+    System.Drawing.Color yellowColor : Public, Static
+    Single widthBold : Public, Static
+    System.Drawing.Pen blackBold : Public, Static
+    System.Drawing.Pen primaryBold : Public, Static
+    System.Drawing.Pen secondaryBold : Public, Static
+    System.Drawing.Pen backgroundBold : Public, Static
+    System.Drawing.Pen accentBold : Public, Static
+    System.Drawing.Pen textBold : Public, Static
+    System.Drawing.Pen whiteBold : Public, Static
+    System.Drawing.Pen yellowBold : Public, Static
+    Single widthMiddle : Public, Static
+    System.Drawing.Pen blackMiddle : Public, Static
+    System.Drawing.Pen cyanMiddle : Public, Static
+    System.Drawing.Pen purpleMiddle : Public, Static
+    System.Drawing.Pen greenMiddle : Public, Static
+    System.Drawing.Pen primaryMiddle : Public, Static
+    System.Drawing.Pen secondaryMiddle : Public, Static
+    System.Drawing.Pen backgroundMiddle : Public, Static
+    System.Drawing.Pen accentMiddle : Public, Static
+    System.Drawing.Pen textMiddle : Public, Static
+    System.Drawing.Pen whiteMiddle : Public, Static
+    System.Drawing.Pen yellowMiddle : Public, Static
+    Single widthSmall : Public, Static
+    System.Drawing.Pen blackSmall : Public, Static
+    System.Drawing.Brush blackBrush : Public, Static
+    System.Drawing.Brush primaryBrush : Public, Static
+    System.Drawing.Brush secondaryBrush : Public, Static
+    System.Drawing.Brush backgroundBrush : Public, Static
+    System.Drawing.Brush accentBrush : Public, Static
+    System.Drawing.Brush textBrush : Public, Static
+    System.Drawing.Brush whiteBrush : Public, Static
+    System.Drawing.Brush yellowBrush : Public, Static
+Class windowyujra.CustomerUI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ApplyStyle(Control): PrivateScope, Public, Static, HideBySig
+    ApplyStyle_Enter(Object, EventArgs): PrivateScope, Public, Static, HideBySig
+    ApplyStyle_Leave(Object, EventArgs): PrivateScope, Public, Static, HideBySig
+Class windowyujra.GraphicsExtra: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    RectangleIn(Int32, Int32, Int32, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    RectangleEx(Int32, Int32, Int32, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    IsometricPot(Int32, Int32, Int32, Point): PrivateScope, Public, Static, HideBySig
+    RectanglePot(Int32, Int32, Int32): PrivateScope, Public, Static, HideBySig
+Class windowyujra.Graphics3D: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Sphere(Int32, Int32, Int32, Graphics): PrivateScope, Public, Static, HideBySig
+    Cylinder(Int32, Int32, Int32, Int32, Graphics): PrivateScope, Public, Static, HideBySig
+    Cone(Int32, Int32, Int32, Int32, Graphics): PrivateScope, Public, Static, HideBySig
+    Cube(Int32, Int32, Int32, Graphics): PrivateScope, Public, Static, HideBySig
+    Paralepiped(Int32, Int32, Int32, Int32, Int32, Graphics): PrivateScope, Public, Static, HideBySig
+    Isometric_1(Int32, Int32, Int32, Graphics): PrivateScope, Public, Static, HideBySig
+    Isometric_2(Int32, Int32, Int32, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawHappyFace(Point, Graphics): PrivateScope, Public, Static, HideBySig
+Class windowyujra.GraphicsFuntion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    DrawPlane(Point, Graphics, Int32, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Draw(Double[], Double, Brush, Int32, Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawFunction1(Point, Graphics): PrivateScope, Public, Static, HideBySig
+Class windowyujra.GraphicsPolar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Draw(Double[], Brush, Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawElipse(Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawRectangle(Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawLem(Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawCardioide(Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawNefroide(Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawTunel(Int32, Point, Graphics): PrivateScope, Public, Static, HideBySig
+    DrawFunction1(Point, Graphics): PrivateScope, Public, Static, HideBySig
+Class windowyujra.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class windowyujra.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(windowyujra.Administrator): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
